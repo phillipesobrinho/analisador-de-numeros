@@ -1,0 +1,28 @@
+body{
+    background: rgba(57, 57, 154, 0.776);
+    font:  normal;
+}
+
+header{
+
+
+    color: white;
+    text-align: center;
+
+}
+
+section{
+
+    background: white;
+    border: 10px;
+    padding: 15px;
+    width: 500px;
+    position: relative;
+    margin: auto;
+    box-shadow: 3px 3px 3px 10px;
+}
+
+select#idflista{
+    width: 150px;
+}
+
